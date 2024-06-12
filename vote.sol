@@ -1,8 +1,3 @@
-/**
-*   我们创建一个简单的投票合约。
-*   投票合约允许选民对不同的候选人进行投票，并查看每个候选人的得票情况。
-*   以下是 Solidity 实现的简化版本：
-*/
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
